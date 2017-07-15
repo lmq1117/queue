@@ -19,7 +19,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Queue Connections
+    | Queue Connections 队列连接 每种队列连接可以有多个队列
     |--------------------------------------------------------------------------
     |
     | Here you may configure the connection information for each server that
